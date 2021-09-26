@@ -2,6 +2,8 @@ title: Nonlinearsound Blog
 email: nonlinearsound@icloud.com
 description: A small blog about my experiences in It and programming
 github_username: nonlinearsound
+baseurl: https://nonlinearsound.github.io
+url: /blog
 theme: minima
 plugins:
  - jekyll-feed
